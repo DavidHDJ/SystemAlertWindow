@@ -24,8 +24,7 @@
             android:foregroundServiceType="specialUse"
             android:enabled="true"
             android:exported="false"
-            android:permission="android.permission.FOREGROUND_SERVICE"><property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
-            android:value="@string/foreground_service_special_use"/>
+            android:permission="android.permission.FOREGROUND_SERVICE">
         </service>
     </application>
 
